@@ -1,3 +1,10 @@
+--HELLO WORLD OUTPUT
+
+main :: IO ()
+main = putStrLn "Hello, World!"
+
+
+
 --IMMUTABILITY
 --once a value is bound to a name, it cannot be changed
 
